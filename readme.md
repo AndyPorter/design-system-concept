@@ -12,8 +12,8 @@ exploring ideas for an concept design system
 - GOV.UK design system
 - NHS Design manual
 - things i need to do my job...
- - design + protoype realistic services
- - collaborate with collegaues in my service team, the wider organisation, communites of practice
+   - design + protoype realistic services
+   - collaborate with collegaues in my service team, the wider organisation, communites of practice
 
 
 ## peoples needs
